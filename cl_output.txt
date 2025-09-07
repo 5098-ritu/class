@@ -1,0 +1,7 @@
+PS C:\Users\ak012\OneDrive\Desktop\Java> javac oop_with_classes.java
+PS C:\Users\ak012\OneDrive\Desktop\Java> java main
+Employee is working
+Salary: 50000.0
+HR is managing employee relations
+HR is adding a new employee
+Salary: 60000.0
